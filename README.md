@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://krishsinghal.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=888888&center=true&vCenter=true&width=300&lines=boop+me+%E2%9C%A6;...go+on...;you+know+you+want+to." alt="boop me"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=888888&center=true&vCenter=true&width=300&lines=boop+me+%E2%9C%A6;...go+on...;i+know+you+want+to." alt="boop me"/>
   </a>
 
 </div>
